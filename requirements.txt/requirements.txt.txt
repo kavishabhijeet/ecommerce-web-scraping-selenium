@@ -1,0 +1,7 @@
+```text
+pandas
+numpy
+selenium
+matplotlib
+seaborn
+jupyter
